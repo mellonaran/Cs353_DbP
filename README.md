@@ -1,15 +1,15 @@
-###Course Information
+### Course Information
 CS 353 - Database Systems Management Spring 2018
 
-#Group Members
+# Group Members
 
-##Course Instructor
+## Course Instructor
 Özgür Ulusoy
 
-###Project Website
+### Project Website
 
 
-####Files
+#### Files
 Project Proposal
 Design Report
 Final Report
