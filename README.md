@@ -1,4 +1,4 @@
-### Course Information
+## Course Information
 CS 353 - Database Systems Management Spring 2018
 
 # Group Members
