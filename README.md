@@ -1,9 +1,13 @@
 ### Course Information
 CS 353 - Database Systems Management
+Scientific Papers Data Management System PROJECT
 Spring 2018
 
 ### Group Members
-
+Melisa ONARAN
+Nergiz ÜNAL
+Aybüke Ceren DURAN
+Okan ŞEN
 
 ### Course Instructor
 Özgür Ulusoy
