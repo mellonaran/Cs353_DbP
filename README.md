@@ -1,7 +1,7 @@
 ### Course Information
 CS 353 - Database Systems Management
 - Scientific Papers Data Management System PROJECT
-Spring 2018
+* Spring 2018
 
 ### Group Members
 - Melisa ONARAN
