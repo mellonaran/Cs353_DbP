@@ -1,7 +1,7 @@
 ### Course Information
 CS 353 - Database Systems Management Spring 2018
 - Scientific Papers Data Management System PROJECT
-
+- Group 5
 
 ### Group Members
 - Melisa ONARAN
@@ -10,7 +10,10 @@ CS 353 - Database Systems Management Spring 2018
 - Okan ŞEN
 
 ### Course Instructor
-Özgür Ulusoy
+Özgür ULUSOY
+
+### Assigned TA for Scientific Papers Data Management System Projects
+Arif USTA
 
 ### Project Website
 [Database v1.0](https://mellonaran.github.io/)
