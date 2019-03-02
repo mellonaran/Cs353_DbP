@@ -1,19 +1,19 @@
 ### Course Information
-CS 353 - Database Systems Management Fall 2018
-- Social Betting Platform PROJECT
-- Group 16
+CS 353 - Database Systems Management Spring 2019
+- Art Sharing Platform PROJECT
+- Group 31
 
 ### Group Members
 - Melisa ONARAN
-- Nergiz ÜNAL
-- Aybüke Ceren DURAN
-- Yağız GANİ
+- Yağmur ÖZKÖK
+- Eren YALÇIN
+- Atılgan AKANT
 
 ### Course Instructor
-Özgür ULUSOY
+Uğur GÜDÜKBAY
 
 ### Assigned TA for Scientific Papers Data Management System Projects
-Mustafa CAN ÇAVDAR
+Aytek AMAN
 
 ### Project Website
 [Database v1.0](https://mellonaran.github.io/)
