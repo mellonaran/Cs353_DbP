@@ -19,7 +19,7 @@ Mustafa Can Çavdar
 [Database v1.0](https://mellonaran.github.io/)
 
 ### Files
-- [Project Proposal](https://docs.google.com/document/d/1c-XP2u5eQpr4cWvnkB5M2oZqwgTwS0DQ67QKJlGf95E/edit?ts=5e53eb11)
+- [Project Proposal](https://drive.google.com/drive/folders/1KIgHTuxWTEr2PXi7dOKF0QrvBFUogWGl)
 - [Design Report]()
 - [Final Report]()
 - [User Manual]()
