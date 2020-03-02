@@ -1,7 +1,7 @@
 ### Course Information
 CS 353 - Database Systems Management Spring 2020
 - Social Betting Platform PROJECT
-- Group 31
+- Group 5
 
 ### Group Members
 - ASUMAN AYDIN 
