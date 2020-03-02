@@ -4,10 +4,10 @@ CS 353 - Database Systems Management Spring 2020
 - Group 31
 
 ### Group Members
-- Melisa ONARAN
-- Yağmur ÖZKÖK
-- Eren YALÇIN
-- Atılgan AKANT
+- ASUMAN AYDIN 
+- ECE ÇANGA
+- ORKAN ÖZTRAK
+- MELİSA ONARAN
 
 ### Course Instructor
 Özgür Ulusoy
